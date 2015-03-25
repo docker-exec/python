@@ -1,0 +1,7 @@
+*/.git
+*/.travis.yml
+*/README.md
+image-common/test/*
+image-common/test
+test
+test/*

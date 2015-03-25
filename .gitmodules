@@ -1,0 +1,4 @@
+
+[submodule "image-common"]
+	path = image-common
+	url = https://github.com/docker-exec/image-common.git
