@@ -1,6 +1,6 @@
-# Docker Exec Image: Python
+# Docker Exec Image: Python 3
 
-A Dockerfile describing an container capable of executing Python source files.
+A Dockerfile describing an container capable of executing Python 3 source files.
 
 # Build
 
